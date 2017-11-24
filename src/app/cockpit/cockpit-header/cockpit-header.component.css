@@ -1,0 +1,50 @@
+:host .content {
+    background-color: rgb(64, 64, 65);
+    color: white;
+    box-shadow: rgb(136, 136, 136) 5px 5px 5px;
+    height: 40px;
+    right: auto;
+    left: 0px;
+    top: 0px;
+    width: 941px;
+    font-size: 14px;
+    padding: 8px;
+}
+
+.sec {
+    position: relative;
+    padding: 2px;
+}
+
+.redsec {
+    background-color: #ef4036;
+}
+
+.spriteimg {
+    background-image: url(/assets/images/sprite-sb9602c3aee.png);
+    background-repeat: no-repeat;
+    height: 20px;
+    width: 20px;
+    left: -30px;
+    position: absolute;
+}
+
+.spritenouvel {
+    background-position: -61px -369px;
+}
+
+.spritevente {
+    background-position: -21px -369px;
+}
+
+.spritagenda {
+    background-position: -61px -264px;
+}
+
+.spriteplan {
+    background-position: -11px -285px;
+}
+
+.spriteplan2 {
+    background-position: -41px -369px;
+}
